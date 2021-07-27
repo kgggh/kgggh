@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:gnnnykim@gmail.com)
 	
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kgggh)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kgggh&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   
